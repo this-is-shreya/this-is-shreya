@@ -6,7 +6,7 @@ I'm an Indian Undergraduate Student, currently pursuing B.Tech in Computer Engin
 - 🌱 I’m currently learning various technologies
 - 💬 Ask me about **ANYTHING**, happy to help!
 - 📫 How to reach me: 
-   Connect with me on <a href="www.linkedin.com/this-is-shreya">LinkedIn</a>, <a href="https://thisisshreya.hashnode.dev/">Hashnode</a>
+   Connect with me on <a href="www.linkedin.com/this-is-shreya">LinkedIn</a>, <a href="https://thisisshreya.hashnode.dev/">Hashnode</a>, <a href="https://youtube.com/@this-is-code-cafe">Youtube</a>
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I'm simply a learner, just like you
 <br>

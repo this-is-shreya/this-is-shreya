@@ -1,7 +1,7 @@
 <h2 align="center">Hi there 👋, I'm Shreya Srivastava</h2>
 <h3> Who am I?</h3>
 I'm an Indian graduate in B.Tech in Computer Engineering. I'm a project enthusiast, that is, I love solving real-world problems using my coding skills. I'm proficient in languages like Java, JavaScript and love fiddling with databases like MySQL and MongoDB. 
-<br>I'm an aspiring Full Stack Web Developer but my love for backend will always be more😄 as in backend we get the opportunity to resolve errors, connect it to database, solve real-world problems. Even though I'm passionate about web development, I keep exploring new technologies as I don't want to limit myself to one domain.
+<br>I'm a Full Stack Web Developer but my love for backend will always be more😄 as in backend we get the opportunity to resolve errors, connect it to database, solve real-world problems. Even though I'm passionate about web development, I keep exploring new technologies as I don't want to limit myself to one domain.
 
 - 🌱 I’m currently learning various technologies
 - 📫 How to reach me: 
